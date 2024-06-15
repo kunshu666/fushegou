@@ -1,1 +1,3 @@
-
+msg = Instance.new("Message")
+msg.Parent = game.Workspace
+msg.Text = "源码被我删了🤣🤣"
